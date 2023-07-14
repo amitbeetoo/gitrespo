@@ -1,3 +1,3 @@
 # gitrespo
 firstlecture ,,.
-iam ..
+billionaire trader
