@@ -1,3 +1,2 @@
 # gitrespo
-firstlecture ,,.
-billionaire trader
+firstlecture .
