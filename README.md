@@ -1,3 +1,3 @@
 # gitrespo
 firstlecture ,,.
-i am 
+iam ..
